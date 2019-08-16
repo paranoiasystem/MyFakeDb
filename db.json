@@ -1,11 +1,21 @@
 {
-  "products": [
+  "products":[
     {
-      "id": 1,
-      "name": "little fox",
-      "description": "a cute little fox",
-      "img": "http://www.tehcute.com/pics/201401/little-fox-big.jpg",
-      "qty": 10
+        "description": "bb",
+        "id": "1",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZLrsbvmEe-P_X2kNTB5nPV2PKT77SryJAM6Y-u50aj9DIub5R",
+        "isBest": true,
+        "name": "Baby Shark",
+        "price": 100
+    },
+    {
+        "description": "A cute little fox",
+        "id": "2",
+        "image": "http://www.tehcute.com/pics/201401/little-fox-big.jpg",
+        "isBest": true,
+        "name": "Littele Fox",
+        "price": 10.5,
+        "qty": 100
     }
-  ]
+]
 }
