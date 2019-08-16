@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "little fox",
+      "description": "a cute little fox",
+      "img": "http://www.tehcute.com/pics/201401/little-fox-big.jpg",
+      "qty": 10
+    }
+  ]
+}
